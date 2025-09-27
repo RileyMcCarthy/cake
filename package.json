@@ -1,0 +1,22 @@
+{
+  "name": "cake-compiler-tool",
+  "version": "0.12.5",
+  "description": "Cake C23 compiler tool with advanced flow analysis and safety features",
+  "keywords": [
+    "c",
+    "c23", 
+    "compiler",
+    "static-analysis",
+    "flow-analysis",
+    "safety",
+    "transpiler"
+  ],
+  "homepage": "https://github.com/thradams/cake",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thradams/cake.git"
+  },
+  "license": "MIT",
+  "system": "*",
+  "packageType": "tool"
+}
